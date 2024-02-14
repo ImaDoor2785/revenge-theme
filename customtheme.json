@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#6c3aa6"
+      "#9754e3"
       ],
       "BACKGROUND_MENTIONED": [
       "#313244"
@@ -74,7 +74,7 @@
       "#eba0ac"
       ],
       "INTERACTIVE_HOVER": [
-      "#6c3aa6"
+      "#9754e3"
       ],
       "INTERACTIVE_MUTED": [
       "#585b70"
