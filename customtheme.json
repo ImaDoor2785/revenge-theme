@@ -179,17 +179,6 @@
     "blur": 0.0,
     "url": "https://i.imgvibe.com/2024/02/14/IMG_20230901_204053.jpg",
     "alpha": 0.45
-  },
-    "plus":{
-       "version":"0",
-       "icons":{
-          "ic_new_pins":"#f38ba8",
-          "StatusStreaming": "#cba6f7",
-          "StatusMobileOnline": "#a6e3a1",
-          "StatusIdle": "#f9e2af",
-          "StatusDND": "#f38ba8",
-          "StatusOffline": "#9399b2",
-          "StatusOnline": "#a6e3a1"
-    }
+  }
 
 }
