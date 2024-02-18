@@ -1,6 +1,6 @@
 {
-    "name": "Custom theme",
-    "description": "theme im editing Ima Door",
+    "name": "Custom theme testing",
+    "description": "theme testing",
     "authors": [
       {
         "name": "Ima Door"
@@ -56,7 +56,7 @@
       "#11111b"
       ],
       "CHANNEL_ICON": [
-      "#cba6f7"
+      "#A567FC"
       ],
       "CHANNELS_DEFAULT": [
       "#9399b2"
@@ -71,7 +71,7 @@
       "#bac2de"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#eba0ac"
+      "#8539EA"
       ],
       "INTERACTIVE_HOVER": [
       "#CBA6F7"
@@ -137,7 +137,7 @@
     "rawColors": {
       "BRAND_260": "#f5e0dc",
       "BRAND_360": "#a6e3a1",
-      "BRAND_500": "#cba6f7",
+      "BRAND_500": "#A56DEA",
       "GREEN_360": "#a6e3a1",
       "PRIMARY_100": "#cdd6f4",
       "PRIMARY_300": "#1e1e2e",
