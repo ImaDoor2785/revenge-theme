@@ -83,10 +83,10 @@
       "#9399b2"
       ],
       "MENTION_BACKGROUND": [
-      "#5E66D7"
+      "#373D91"
       ],
       "MENTION_FOREGROUND": [
-      "#915DDA"
+      "#2D226C"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#11111b"
@@ -125,10 +125,10 @@
       "#a6adc8"
       ],
       "TEXT_NORMAL": [
-      "#44DB39"
+      "#3C2DC3"
       ],
       "TEXT_PRIMARY": [
-      "#44DB39"
+      "#3C2DC3"
       ],
       "TEXT_SECONDARY": [
       "#824DC2"
