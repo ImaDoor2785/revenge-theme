@@ -11,7 +11,7 @@
       "#CBA6F7"
       ],
       "BACKGROUND_MENTIONED": [
-      "#313244"
+      "#874ED1"
       ],   
       "BACKGROUND_MENTIONED_HOVER": [   
       "#6c7086"
@@ -83,10 +83,10 @@
       "#9399b2"
       ],
       "MENTION_BACKGROUND": [
-      "#5E95D7"
+      "#5E66D7"
       ],
       "MENTION_FOREGROUND": [
-      "#181825"
+      "#915DDA"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#11111b"
@@ -125,13 +125,13 @@
       "#a6adc8"
       ],
       "TEXT_NORMAL": [
-      "#cdd6f4"
+      "#44DB39"
       ],
       "TEXT_PRIMARY": [
-      "#cdd6f4"
+      "#44DB39"
       ],
       "TEXT_SECONDARY": [
-      "#a6adc8"
+      "#824DC2"
       ]
   },
     "rawColors": {
