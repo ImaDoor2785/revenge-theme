@@ -56,7 +56,7 @@
       "#11111b"
       ],
       "CHANNEL_ICON": [
-      "#cba6f7"
+      "#A567FC"
       ],
       "CHANNELS_DEFAULT": [
       "#9399b2"
@@ -71,7 +71,7 @@
       "#bac2de"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#eba0ac"
+      "#8539EA"
       ],
       "INTERACTIVE_HOVER": [
       "#CBA6F7"
@@ -101,22 +101,22 @@
       "#1e1e2e"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-      "#f38ba8"
+      "#9B8BF3"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-      "#f38ba8"
+      "#9B8BF3"
       ],
       "SCROLLBAR_THIN_THUMB": [
-      "#f38ba8"
+      "#9B8BF3"
       ],
       "SCROLLBAR_THIN_TRACK": [
-      "#f38ba8"
+      "#9E8BF3"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#9399b2"
       ],
       "TEXT_DANGER": [
-      "#f38ba8"
+      "#6353CF"
       ],
       "TEXT_LINK": [
       "#89b4fa"
