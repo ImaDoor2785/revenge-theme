@@ -11,7 +11,7 @@
       "#CBA6F7"
       ],
       "BACKGROUND_MENTIONED": [
-      "#874ED1"
+      "#2C2D71"
       ],   
       "BACKGROUND_MENTIONED_HOVER": [   
       "#6c7086"
@@ -125,10 +125,10 @@
       "#a6adc8"
       ],
       "TEXT_NORMAL": [
-      "#3C2DC3"
+      "#B0AAE3"
       ],
       "TEXT_PRIMARY": [
-      "#3C2DC3"
+      "#B0AAE3"
       ],
       "TEXT_SECONDARY": [
       "#824DC2"
