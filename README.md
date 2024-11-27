@@ -1,4 +1,5 @@
-# revenge-theme
-discord theme for revenge mod
+the themes i currently use on  dircord
 
-https://github.com/revenge-mod/Revenge
+desktop client https://github.com/Vencord/Vesktop
+
+mobile client https://github.com/bunny-mod/Bunny
